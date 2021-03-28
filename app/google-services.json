@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977649185518",
+    "project_id": "dientu-9aee5",
+    "storage_bucket": "dientu-9aee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977649185518:android:7283d222451abe6b9179ff",
+        "android_client_info": {
+          "package_name": "io.yencute.dientu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977649185518-oen7md641dc8pbug5c09pk93fele21cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1FXOzkiURsI__W5FVf5m8Lxt_oPeU5Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977649185518-oen7md641dc8pbug5c09pk93fele21cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
